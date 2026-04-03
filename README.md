@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_BANNER" />
+  <img src="https://raw.githubusercontent.com/estellagarciasilva-star/estellagarciasilva-star/main/Sonhos%20digitais%20e%20flores%20de%20cerejeira.png" />
 </p>
 
 ## Oiii, eu sou a Estella 👋

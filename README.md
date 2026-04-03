@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/estellagarciasilva-star/estellagarciasilva-star/main/Sonhos%20digitais%20e%20flores%20de%20cerejeira.png" />
-</p>
-
 ## Oiii, eu sou a Estella 👋
 
 🎓 Estudante de análise e desenvolvimento de sistemas  
 💻 Aprendendo Java, Html e CSS  
 🌱 Buscando meu primeiro estágio em desenvolvimento  
+
+<div><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>

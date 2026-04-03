@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Estella 🎀
 
-🎓 Estudante de análise e desenvolvimento de sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Aprendendo Java, Html e CSS  
 🌱 Buscando meu primeiro estágio em desenvolvimento  
 
